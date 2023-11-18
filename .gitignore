@@ -50,4 +50,5 @@ rsconnect/
 
 # Ignored folders
 roughwork/
-mysql-ndb-cluster/
+mysql/var-lib-mysql/
+clickhouse/var-lib-clickhouse
