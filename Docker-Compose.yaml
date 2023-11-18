@@ -1,3 +1,6 @@
+# Specifies the version of Docker compose that is being used.
+# Then informs Docker compose that what follows is configurations of the
+# services (containers) that form the cluster.
 version: "3"
 services:
 
@@ -225,8 +228,8 @@ services:
     hostname: clickhouse-server
     container_name: clickhouse-server
     volumes:
-      - ./clickhouse/config.xml:/etc/clickhouse-server/config.xml
-      - ./clickhouse/zookeeper-servers.xml:/etc/clickhouse-server/conf.d/zookeeper-servers.xml
+      - ./clickhouse/config/config.xml:/etc/clickhouse-server/config.xml
+      - ./clickhouse/config/zookeeper-servers.xml:/etc/clickhouse-server/conf.d/zookeeper-servers.xml
       - ./clickhouse/var-lib-clickhouse:/var/lib/clickhouse
     ports:
       - 8123:8123
