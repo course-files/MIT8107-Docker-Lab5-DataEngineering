@@ -21,4 +21,4 @@ Please refer to the Lab Manual on Data Engineering available here for the detail
 ![TechnologyStack](https://github.com/course-files/MIT8107-Docker-Lab5-DataEngineering/assets/137632706/51ddb9cb-4b87-42eb-9adc-53356a18917a)
 
 
-_Apache®️, Apache Kafka, Kafka, the Kafka logo and other trademarks or logos are registered trademarks or logos. No endorsement by The Apache Software Foundation or other organizations is implied by the use of these marks. This is meant for educational purposes only._
+_Apache®️, Apache Kafka, Kafka, the Kafka logo and other trademarks or logos are registered trademarks or logos. No endorsement by The Apache Software Foundation or other organizations is implied by the use of these marks or logos. This is meant for educational purposes only._
