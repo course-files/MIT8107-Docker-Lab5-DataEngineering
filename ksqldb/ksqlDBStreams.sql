@@ -1,5 +1,6 @@
--- Tutorial: https://developer.confluent.io/tutorials/working-with-nested-json/ksql.html
--- ############################ STAGE 1 ############################ 
+-- NOTE: This should be executed in ksqlDB CLI. Connect to the CLI using:
+-- docker exec -it ksqldb-cli ksql http://ksqldb-server:8088
+
 -- The stream for the orderdetails table
 CREATE STREAM orderdetails_stream (payload STRUCT<
   `orderNumber` INT,
