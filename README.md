@@ -1,6 +1,6 @@
 # MIT8107 and BBT4206
 
-These are course files (instructional materials) for both the **BBT4206: Business Intelligence II** course and the **MIT8107: Advanced Database Systems** using **SQL***.
+These are course files (instructional materials) for both the **BBT4206: Business Intelligence II** course and the **MIT8107: Advanced Database Systems**.
 
 | **Key**                                                               | Value                                                                                                                                                                              |
 |---------------|---------------------------------------------------------|
