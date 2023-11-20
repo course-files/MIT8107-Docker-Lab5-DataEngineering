@@ -1,3 +1,7 @@
+CREATE DATABASE classicmodels;
+
+USE classicmodels;
+
 -- classicmodels.customers definition
 
 CREATE TABLE classicmodels.customers
