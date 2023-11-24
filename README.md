@@ -1,3 +1,4 @@
+New location: https://github.com/course-files/BBT4206-Shell-Lab19-DataEngineering(https://github.com/course-files/BBT4206-Shell-Lab19-DataEngineering)
 # MIT8107 and BBT4206
 
 These are course files (instructional materials) for both the **MIT8107: Advanced Database Systems** and the **BBT4206: Business Intelligence II** courses.
